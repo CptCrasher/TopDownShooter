@@ -16,7 +16,7 @@ This project utilizes tools such as Unity's:
 * Scripting API
 
 As this was simply a project used to teach myself the basics of the Unity engine,
-this project just a prototype and has no playable build.
+this project is just a prototype and has no playable build.
 
 ## Gameplay
 
